@@ -1,0 +1,9 @@
+#container {
+    height: 300;
+    width: 600;
+    background-color: sandybrown;
+    color: black;
+    border: 2px solid red;
+    text-align: center;
+    /* border-radius: 50%; */
+}
